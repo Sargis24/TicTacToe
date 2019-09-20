@@ -5,8 +5,7 @@
 #ifndef TICTACTOE_H
 #define TICTACTOE_H
 
-class TicTacToe
-{
+class TicTacToe{
 public:
 	TicTacToe();
 	bool setTable(int, int, int);
